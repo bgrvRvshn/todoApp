@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# :heavy_check_mark: Todo
+## Владилен Минин - [React JS. Полный Курс 2020](https://www.youtube.com/watch?v=xJZa2_aldDs)
 
 ## Available Scripts
 
